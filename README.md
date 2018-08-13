@@ -24,6 +24,12 @@ Navigate to
 output for autoencoder > Autoencoder Output Summary.pdf 
 ```
 
-**link source:**  https://www.kaggle.com/pgladkov/fraud-detection-using-autoencoder/data  
+**Quick Summary**
+ * Accuracy score: .9531
+ * Precision score: .0313
+ * Recall score: .8775
+ * F1 score: .0605
+
+**Link Source:**  https://www.kaggle.com/pgladkov/fraud-detection-using-autoencoder/data  
 
 
